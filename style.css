@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
   background: #f4f4f4;
   color: #222;
+
 }
 
 ul{
@@ -16,9 +17,13 @@ li{
 }
 
 nav a {
+
   margin: 0 10px;
   text-decoration: none;
   color: rgb(14, 13, 13);
+}
+nav a:hover {
+  color: #3ab1b9;
 }
 
 .card {
